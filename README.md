@@ -38,13 +38,16 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="80">
     </td>
       <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80">
     </td>
     <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="80">
     </td>
 </tr>
 <tr>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="80">
+    </td>
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="80">
     </td>
