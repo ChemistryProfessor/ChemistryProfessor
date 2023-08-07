@@ -9,6 +9,52 @@
 
 <hr/>
 
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="80">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="80">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="60">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" width="80">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="80">
+    </td>
+      <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="80">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="80">
+    </td>
+</tr>
+</table>
+
+<hr/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chemistryprofessor" alt="chemistryprofessor" /></a> </p>
 
 <hr/>
@@ -19,6 +65,24 @@
 
 - ⚡ Fun fact **I am a Fast Cuber**
 <hr/>
+<div align="center" width="600">
+  <p>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chemistryprofessor&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="chemistryprofessor" height="145"/>
+  </p>
+
+</div>
+<div>
+      <p>&nbsp;
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=chemistryprofessor&show_icons=true&locale=en&theme=blue-green" alt="chemistryprofessor" />
+  </p>
+
+</div>
+<div>
+      <p>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chemistryprofessor&theme=blue-green" alt="chemistryprofessor" />
+  </p>
+</div>
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/walterwhit1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walterwhit1313" height="30" width="40" /></a>
@@ -28,12 +92,11 @@
 <a href="https://instagram.com/13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="13" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bluedark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bluedark" height="30" width="40" /></a>
 </p>
-<hr/>
-<h3 align="left">Languages and Tools:</h3>
-  <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<hr/>
-<div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chemistryprofessor&show_icons=true&locale=en&layout=compact" alt="chemistryprofessor" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chemistryprofessor&show_icons=true&locale=en" alt="chemistryprofessor" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chemistryprofessor&" alt="chemistryprofessor" /></p>
-</div>
+
+
+
+
+
+
+
+
