@@ -71,26 +71,23 @@
 
 - ⚡ Fun fact **I am a Fast Cuber**
 <hr/>
-<div align="center" width="600">
-  <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChemistryProfessor&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="chemistryprofessor" height="145"/>
-  </p>
-
-</div>
-<hr/>
-
-
-<div>
-      <p>&nbsp;
+    <table align="center">
+        <tr>
+    <td align='center' width="990">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChemistryProfessor&show_icons=true&locale=en&layout=compact&theme=blue-green"/>
+    </td>
+</tr>
+<tr>
+    <td align='center' width="990">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChemistryProfessor&show_icons=true&locale=en&theme=blue-green" alt="chemistryprofessor" />
-  </p>
-</div>
-<hr/>
-<div>
-      <p>
+    </td>
+</tr>
+<tr>
+    <td align='center' width="990">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChemistryProfessor&theme=blue-green" alt="chemistryprofessor" />
-  </p>
-</div>
+    </td>
+</tr>
+</table>
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
