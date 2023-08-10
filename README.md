@@ -82,13 +82,13 @@
 
 <div>
       <p>&nbsp;
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=chemistryprofessor&show_icons=true&locale=en&theme=blue-green" alt="chemistryprofessor" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChemistryProfessor&show_icons=true&locale=en&theme=blue-green" alt="chemistryprofessor" />
   </p>
 </div>
 <hr/>
 <div>
       <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chemistryprofessor&theme=blue-green" alt="chemistryprofessor" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChemistryProfessor&theme=blue-green" alt="chemistryprofessor" />
   </p>
 </div>
 <hr/>
