@@ -73,7 +73,7 @@
 <hr/>
 <div align="center" width="600">
   <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chemistryprofessor&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="chemistryprofessor" height="145"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChemistryProfessor&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="chemistryprofessor" height="145"/>
   </p>
 
 </div>
