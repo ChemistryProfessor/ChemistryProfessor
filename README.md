@@ -99,20 +99,40 @@
 <a href="https://www.youtube.com/c/bluedark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bluedark" height="40" width="50" /></a>
 </p>
 <hr/>
+
+<div>
+    
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChemistryProfessor&theme=dark&background=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ChemistryProfessor&show_icons=true&locale=en&theme=vision-friendly-dark)
+
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&layout=compact&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&theme=vision-friendly-dark&langs_count=8)
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&layout=compact&theme=vision-friendly-dark)
+
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--🏆TROPHYGIF-->
+<p align="center">
+    <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40"></p>
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&theme=vision-friendly-dark&langs_count=8)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&layout=compact&theme=vision-friendly-dark)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChemistryProfessor&theme=dark&background=000000)
 
 
-[![](https://raw.githubusercontent.com/ChemistryProfessor/ChemistryProfessor/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ChemistryProfessor/ChemistryProfessor/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChemistryProfessor/ChemistryProfessor/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ChemistryProfessor/ChemistryProfessor/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChemistryProfessor/ChemistryProfessor/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
