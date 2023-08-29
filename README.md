@@ -69,18 +69,6 @@
 </table>
 <hr/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chemistryprofessor" alt="chemistryprofessor" /></a> </p>
-<hr/>
-    <table align="center">
-        <tr>
-    <td align='center' width="990">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChemistryProfessor&show_icons=true&locale=en&layout=compact&theme=blue-green"/>
-    </td>
-</tr>
-<tr>
-    <td align='center' width="990">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChemistryProfessor&show_icons=true&locale=en&theme=blue-green" alt="chemistryprofessor" />
-    </td>
-</tr>
 <tr>
     <td align='center' width="990">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChemistryProfessor&theme=blue-green" alt="chemistryprofessor" />
