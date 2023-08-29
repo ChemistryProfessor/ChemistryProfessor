@@ -102,8 +102,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&theme=dark&langs_count=8)](https://github.com/Amirhosein-D)
-  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&theme=vision-friendly-dark&langs_count=8)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&layout=compact&theme=vision-friendly-dark)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChemistryProfessor&theme=dark&background=000000)
+
 
 
 
