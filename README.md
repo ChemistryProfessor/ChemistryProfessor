@@ -8,16 +8,18 @@
 <h4 align="center">
     🔭 I’m currently working on **13D** 🌱 I’m currently learning **Asp.net.core** ⚡ Fun fact **I am a Fast Cuber**
 </h2>
-<hr/>
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
     <img  white="230em" height="230em" align="center" margin="auto" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
   <img white="230em" height="230em" align="center" margin="auto" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 <img white="230em" align="center" margin="auto" height="230em"src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
 
 </div>
-
-<hr/>
-
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <table width="100">
 <tr>
     <td align='center' width="190">
@@ -68,9 +70,13 @@
     </td>
 </tr>
 </table>
-<hr/>
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chemistryprofessor" alt="chemistryprofessor" /></a> </p>
-<hr/>
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
     <table align="center">
         <tr>
     <td align='center' width="990">
@@ -88,7 +94,9 @@
     </td>
 </tr>
 </table>
-<hr/>
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/walterwhit1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walterwhit1313" height="40" width="50" /></a>
@@ -98,21 +106,19 @@
 <a href="https://instagram.com/13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="13" height="40" width="50" /></a>
 <a href="https://www.youtube.com/c/bluedark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bluedark" height="40" width="50" /></a>
 </p>
-<hr/>
-
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div>
     
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChemistryProfessor&theme=dark&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=ChemistryProfessor&show_icons=true&locale=en&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&theme=vision-friendly-dark&langs_count=8)
 
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&layout=compact&theme=vision-friendly-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&theme=vision-friendly-dark&langs_count=8)
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&layout=compact&theme=vision-friendly-dark)
-
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
