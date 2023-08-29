@@ -79,18 +79,30 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
     <table align="center">
         <tr>
-    <td align='center' width="990">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChemistryProfessor&show_icons=true&locale=en&layout=compact&theme=blue-green"/>
+            <td align='center' width="990">
+
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=ChemistryProfessor&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&langs_count=8)   
     </td>
 </tr>
 <tr>
     <td align='center' width="990">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChemistryProfessor&show_icons=true&locale=en&theme=blue-green" alt="chemistryprofessor" />
+      <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChemistryProfessor&theme=blue-green" alt="chemistryprofessor" />-->
+        
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&theme=vision-friendly-dark&langs_count=8)
     </td>
 </tr>
 <tr>
     <td align='center' width="990">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChemistryProfessor&theme=blue-green" alt="chemistryprofessor" />
+      <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChemistryProfessor&show_icons=true&locale=en&theme=blue-green" alt="chemistryprofessor" />-->
+        
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ChemistryProfessor&show_icons=true&locale=en&theme=vision-friendly-dark) 
+    </td>
+</tr>
+<tr>
+    <td align='center' width="990">
+    <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChemistryProfessor&show_icons=true&locale=en&layout=compact&theme=blue-green"/> -->
+        
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChemistryProfessor&theme=dark&background=000000)   
     </td>
 </tr>
 </table>
@@ -106,26 +118,13 @@
 <a href="https://instagram.com/13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="13" height="40" width="50" /></a>
 <a href="https://www.youtube.com/c/bluedark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bluedark" height="40" width="50" /></a>
 </p>
-<!--📏LINE-->
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<div>
-    
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChemistryProfessor&theme=dark&background=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=ChemistryProfessor&show_icons=true&locale=en&theme=vision-friendly-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&theme=vision-friendly-dark&langs_count=8)
 
-</div>
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--🏆TROPHYGIF-->
 <p align="center">
-    <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
 <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40"></p>
 
