@@ -45,17 +45,20 @@
      <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80">
     </td>
+     <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="80">
+    </td>
     <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="80">
     </td>
       <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80">
     </td>
+</tr>
+<tr>
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="80">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="80">
     </td>
